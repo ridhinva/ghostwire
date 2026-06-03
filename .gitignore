@@ -1,0 +1,35 @@
+# GhostWire
+# .gitignore
+
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Output
+output/
+logs/
+sessions/
+*.pcap
+*.cap
+*.csv
+*.hc22000
+*.hccapx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+venv/
