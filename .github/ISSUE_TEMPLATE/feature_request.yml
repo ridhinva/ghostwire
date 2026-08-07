@@ -1,0 +1,19 @@
+---
+name: Feature Request
+about: Suggest a new feature or enhancement
+title: "[FEAT] "
+labels: ["enhancement"]
+assignees: []
+---
+
+## Problem Statement
+What problem does this solve? What use case?
+
+## Proposed Solution
+Describe the feature you'd like.
+
+## Alternatives Considered
+Other approaches you've thought of.
+
+## Additional Context
+References, mockups, or related issues.
