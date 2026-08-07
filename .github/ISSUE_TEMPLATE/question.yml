@@ -1,0 +1,17 @@
+---
+name: Question
+about: Ask a question about usage or implementation
+title: "[QUESTION] "
+labels: ["question"]
+assignees: []
+---
+
+## Question
+What do you need help with?
+
+## Context
+What are you trying to achieve? What have you tried?
+
+## Environment
+- OS: 
+- Tool version: 
